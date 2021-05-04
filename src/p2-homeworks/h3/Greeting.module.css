@@ -1,0 +1,22 @@
+.greeting {
+    display: flex;
+    align-items: flex-start;
+}
+.input {
+    margin: 10px;
+    background-color: greenyellow;
+}
+
+.errorInput {
+    margin: 10px;
+
+}
+
+.error {
+    margin: 10px;
+    border: 2px solid red;
+}
+
+.count {
+    margin: 10px;
+}
